@@ -1,4 +1,4 @@
-# Heading
+# Computer Science Infodump Signup
 
 The Computer Science Infodump event is an event hosted by the Neurodivergent Monarchs in which the goal is to give people the chance to infodump (simply put, to give a lot of information really quickly) about any computer science topic in front of an interested audience. This event will have presenters throughout the entire event, and people can listen to any talks they are interested in.
 
