@@ -8,7 +8,7 @@ You can register for a 10-minute, 20-minute, or 30-minute time slot using the li
 
 You are not obligated to follow traditional rules of presentation (ex. consistent eye contact with the audience).
 
-If you have a slideshow, please email it to zwasi001@odu.edu by November 20th.
+If you have a slideshow, please email it to zwasi001@odu.edu by 4pm November 21st with the subject line "\[Last Name\] CS Infodump Presentation".
 
 You can reach out to Zara at zwasi001@odu.edu or Adam at amand009@odu.edu with any questions.
 
