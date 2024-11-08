@@ -4,14 +4,12 @@ The Computer Science Infodump event is an event hosted by the Neurodivergent Mon
 
 This event will take place on Thursday, November 21st from 5-7pm in Library Learning Commons Room 1310.
 
-Your time slot will be assigned and emailed to you based on your responses in this form. You can allocate this time as you wish- if you want to speak for 10 minutes and leave 2 for questions, that's fine. If you want to speak the whole way through, that's fine as well. Visual aids are permitted but not required-- the point of these talks is to give you an opportunity to ramble about a computer science topic you enjoy, not necessarily to teach a lesson or concept.
+Your time slot will be assigned and emailed to you based on your responses in this form. You can allocate this time as you wish- if you want to speak for 8 minutes and leave 2 for questions, that's fine. If you want to speak the whole way through, that's fine as well. Visual aids are permitted but not required-- the point of these talks is to give you an opportunity to ramble about a computer science topic you enjoy, not necessarily to teach a lesson or concept.
 
 You are not obligated to follow traditional rules of presentation (ex. consistent eye contact with the audience).
 
-This form will be closed as we reach max capacity, so please do submit this form quickly if you are interested in speaking. You can always alter the form later-- it's most important that we reserve time for you during the event.
+If you have a slideshow, please email it to zwasi001@odu.edu by November 20th.
 
 You can reach out to Zara at zwasi001@odu.edu or Adam at amand009@odu.edu with any questions.
 
-- [30 minute timeslot](https://www.google.com)
-- [20 minute timeslot](https://www.google.com)
-- [10 minute timeslot](https://www.google.com)
+- [Sign up here!](https://calendly.com/ehanc001-odu)
