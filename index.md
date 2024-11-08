@@ -4,7 +4,7 @@ The Computer Science Infodump event is an event hosted by the Neurodivergent Mon
 
 This event will take place on **Thursday, November 21st from 5-7pm in Library Learning Commons Room 1310**.
 
-You can register for a 10-minute, 20-minute, or 30-minute time slot using the link below. You can allocate this time as you wish- if you want to speak for 8 minutes and leave 2 for questions, that's fine. If you want to speak the whole way through, that's fine as well. Visual aids are permitted but not required-- the point of these talks is to give you an opportunity to ramble about a computer science topic you enjoy, not necessarily to teach a lesson or concept.
+You can register for a 10-minute, 20-minute, or 30-minute time slot using the link below. You can allocate this time as you wish- if you want to leave the last few minutes of your talk time for questions, that's fine. If you want to speak the whole way through, that's fine as well. Visual aids are permitted but not required-- the point of these talks is to give you an opportunity to ramble about a computer science topic you enjoy, not necessarily to teach a lesson or concept.
 
 You are not obligated to follow traditional rules of presentation (ex. consistent eye contact with the audience).
 
